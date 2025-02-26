@@ -1,4 +1,4 @@
-import axios from 'axios';
+const axios = require('axios')
 
 const getUfValue = async ()=>{
     const response = await axios.get('https://mindicador.cl/api/uf')
