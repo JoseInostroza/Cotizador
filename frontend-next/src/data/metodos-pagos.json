@@ -1,0 +1,53 @@
+{
+    "LAND VIP 1":{
+        "valorLista":7063,
+        "descuento":0,
+        "precio":7063,
+        "pie":30,
+        "cuotas":180
+    },
+    "LAND VIP 2":{
+        "valorLista":7063,
+        "descuento":10,
+        "precio":6356,
+        "pie":100,
+        "cuotas":0
+    },
+    "LAND 1":{
+        "valorLista":1766,
+        "descuento":0,
+        "precio":1766,
+        "pie":20,
+        "cuotas":180
+    },
+    "LAND 2":{
+        "valorLista":1766,
+        "descuento":0,
+        "precio":1766,
+        "pie":30,
+        "cuotas":180
+
+    },
+    "LAND 3":{
+        "valorLista":1766,
+        "descuento":15,
+        "precio":1501,
+        "pie":30,
+        "cuotas":120
+    },
+    "LAND 4":{
+        "valorLista":1766,
+        "descuento":30,
+        "precio":1236,
+        "pie":100,
+        "cuotas":0
+    },
+    "LAND 5":{
+        "valorLista":1766,
+        "descuento":30,
+        "precio":1236,
+        "pie":100,
+        "cuotas":0,
+        "beneficios": "Arriendo Garantizado por 44 meses"
+    }
+}
