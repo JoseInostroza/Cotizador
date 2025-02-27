@@ -1,4 +1,13 @@
-interface Cliente {
+interface MetodoPago {
+    valorLista: number;
+    descuento: number;
+    precio: number;
+    pie: number;
+    cuotas: number;
+    beneficios?: string;
+  }
+  
+  interface Cliente {
     nombre: string;
     rut: string;
     telefono: string;
@@ -21,6 +30,7 @@ interface Cliente {
       validez: number;
     };
     cliente: Cliente;
+    metodoPago: MetodoPago;
     transacciones: Transaccion[];
     calculos: {
       subtotalUF: number;
