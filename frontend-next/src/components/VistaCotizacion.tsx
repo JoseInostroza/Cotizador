@@ -1,5 +1,5 @@
 import { PDFDownloadLink } from '@react-pdf/renderer';
-import PDFCotizacion from './PDFCotizacion';
+import PDFCotizacion from './PdfCotizacion';
 
 interface VistaCotizacionProps {
   cotizacion: Cotizacion;
